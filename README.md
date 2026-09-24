@@ -2,7 +2,7 @@
 
 **Project Code:** WST21-PM-2026-SF
 **Student Name:** Kyle Lugod
-**Course & Year:** BSIS-2
+**Course & Year:** BSIT-2
 **Database Used:** SQLite
 
 ## Project Description
