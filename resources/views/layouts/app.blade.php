@@ -203,6 +203,12 @@
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 0.06em;
+        }
+        .status-pill.pending {
+            background: rgba(245,197,66,0.18);
+            color: #f5c542;
+        }
+        .status-pill.completed {
             background: var(--green-soft);
             color: var(--green);
         }

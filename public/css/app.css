@@ -226,8 +226,8 @@ h1 em {
 }
 
 .status-pill.pending {
-    color: #75591f;
-    background: #f6ebbd;
+    color: #f5c542;
+    background: rgba(245,197,66,0.18);
 }
 
 .status-pill.completed {
